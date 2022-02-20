@@ -1,3 +1,5 @@
+firebaseのconfigファイルは差し替えて下さい
+
 参考
 https://firebase.google.cn/docs/firestore/manage-data/transactions?hl=ja
 
